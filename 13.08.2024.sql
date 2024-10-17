@@ -10,7 +10,7 @@
 
 create database group_260324;
 
--- Удалить БДalter
+-- Удалить БД
 drop database group_260324;
 
 -- Выбрать БД в качестве текущейalter
